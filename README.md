@@ -79,7 +79,7 @@ create policy "Users can delete own projects"
 
 ### 3. Add environment variables
 
-Copy `.env.local.example` to `.env.local` and fill in your Supabase keys:
+Go to `.env.local` and fill in your Supabase keys:
 
 ```bash
 cp .env.local.example .env.local
